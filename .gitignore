@@ -1,0 +1,11 @@
+# Ignoring the python virtual environment created for development
+my-env/
+
+# Ignoring the tweet_bot pem file.
+tweet_bot.pem
+
+# Ignoring the auth python file having the tokens
+bots/auth.py
+
+# Ignoring the image file generated using Dockerfile
+tweet_bot.tar.gz
