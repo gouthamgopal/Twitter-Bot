@@ -1,4 +1,7 @@
 # Twitter-Bot
+
+> https://twitter.com/TwitBot94189404
+
 This is a twitter bot developed using python and its twitter library Tweepy.
 
 Twitter bots are mainly automated programs which intend on performing a specific task. In this repo,
