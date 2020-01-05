@@ -13,6 +13,11 @@ These are necessary for Tweepy to interact with the twitter api.
 
 Various other twiiter bots can also be created following the similar pattern, and referring to Tweepy documentation.
 
+## Running this application
+
+You can clone this repo into your local machine, install the dependencies and just run the bot python application to run the bot.
+Please bear in mind that the config.py refers to 4 keys which are twitter tokens for accessing their API. These keys have to be setup by yourself before runnning the bot.
+
 ## Creating an image through docker
 
 We can develop the entire project and then produce an image of the project using Docker.
